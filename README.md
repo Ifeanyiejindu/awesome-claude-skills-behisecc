@@ -86,6 +86,7 @@
 - [go-agent-skills](https://github.com/eduardo-sl/go-agent-skills) - 28 curated Go skills for code review, concurrency safety, testing, gRPC, and architecture.
 - [hivemind](https://github.com/activeloopai/hivemind) - Auto-generates skills from coding agent session traces for Claude Code, Codex, Cursor, and OpenClaw.
 - [mailtrap-skills](https://github.com/mailtrap/mailtrap-skills) - Agent skills for Mailtrap email sending, sandbox testing, domain setup, and contacts management.
+- [test-checklist](https://github.com/Ifeanyiejindu/qarunbook/tree/main/plugins/qarunbook/skills/test-checklist) - Builds a QA test plan from an app's code: every module, feature and user journey per platform, as steps a non-technical tester can follow.
 
 
 ## 📊 Data & Analysis
